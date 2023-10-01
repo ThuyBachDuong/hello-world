@@ -1,0 +1,2 @@
+'''Hello Nhật Anh, tớ là Quang học Toán Tin, tớ thích học Toán nên rất ngưỡng mộ những người giỏi Toán
+như Nhật Anh (Nhất Giải Tích Olympic Toán học toàn quốc). Mong sau này sẽ có cơ hội nói chuyện nhiều hơn với Nhật Anh'''
